@@ -64,7 +64,7 @@ Each part of the interface was separated into reusable React components, making 
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/devayzo/to-do-list
 ```
 
 Enter the project directory:
