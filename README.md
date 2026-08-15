@@ -96,16 +96,6 @@ Although a To-Do List is a relatively simple application, it allowed me to put s
 
 I plan to continue improving the project as I learn new technologies and concepts.
 
-## 🔮 Possible Future Improvements
-
-* 💾 Save tasks using Local Storage
-* ✏️ Edit existing tasks
-* 📅 Add deadlines to tasks
-* 🏷️ Add custom categories
-* 🌙 Dark mode
-* 📱 Improve mobile responsiveness
-* 🔔 Task notifications
-
 ## 👨‍💻 Author
 
 **André Yuri**
